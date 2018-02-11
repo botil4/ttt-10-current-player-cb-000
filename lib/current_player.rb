@@ -4,6 +4,7 @@ def turn_count(board)
     if square == "X" || square == "O"
       counter +=1
     end
+    counter
   end
 end
 
