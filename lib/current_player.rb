@@ -4,8 +4,8 @@ def turn_count(board)
     if square == "X" || square == "O"
       counter +=1
     end
-    counter
   end
+  counter
 end
 
 def current_player
